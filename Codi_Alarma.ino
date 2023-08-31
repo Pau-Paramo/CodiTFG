@@ -13,7 +13,7 @@ char auth[] = "Your Auth Key";
 char ssid[] = "WiFi Blynk";
 char pass[] = "Pwblynk33";
 
-/
+
 #define pirPin 5                // Entrada PIR
 int pirValue;                   // Variable per guardar valor del PIR
 int pinValue;                   //Variable per llegir valor del PIR
