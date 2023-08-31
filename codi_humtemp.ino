@@ -1,5 +1,3 @@
-//Tech Trends Shameer
-
 #define BLYNK_TEMPLATE_ID "TMPLIAjddf20T5"
 #define BLYNK_DEVICE_NAME "Temperatura i humitat"
 #define BLYNK_AUTH_TOKEN "122RywymdfdddgGfMd1jkZ0STNhRQecR12ayq"
